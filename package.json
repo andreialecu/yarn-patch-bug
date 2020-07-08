@@ -1,0 +1,9 @@
+{
+  "name": "yarn-patch-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mongoose": "patch:@types/mongoose@5.7.30#types-mongoose.patch"
+  }
+}
